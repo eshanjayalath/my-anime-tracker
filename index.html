@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime & Manga Release Radar</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --accent-color: #38bdf8;
+            --text-color: #f8fafc;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0; padding: 20px;
+        }
+        header { text-align: center; margin-bottom: 40px; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px; max-width: 1200px; margin: 0 auto;
+        }
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .card:hover { transform: translateY(-5px); }
+        .card img { width: 100%; height: 300px; object-fit: cover; }
+        .card-content { padding: 15px; }
+        .badge {
+            background: var(--accent-color);
+            color: #000; font-size: 0.75rem;
+            padding: 3px 8px; border-radius: 9999px; font-weight: bold;
+        }
+        .title { font-size: 1.1rem; margin: 10px 0; font-weight: 600; }
+        .time-info { color: #94a3b8; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Airing Dashboard</h1>
+        <p id="update-time">Loading schedule...</p>
+    </header>
+
+    <div class="grid" id="schedule-grid"></div>
+
+    <script>
+        async function loadSchedule() {
+            try {
+                const response = await fetch('schedule.json');
+                const data = await response.json();
+                
+                document.getElementById('update-time').innerText = `Data Synced: ${new Date(data.last_updated).toLocaleString()}`;
+                const grid = document.getElementById('schedule-grid');
+                
+                data.releases.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                        <img src="${item.image}" alt="${item.title}">
+                        <div class="card-content">
+                            <span class="badge">${item.type}</span>
+                            <div class="title">${item.title}</div>
+                            <div class="time-info">Releases: ${item.day} ${item.time ? 'at ' + item.time : ''}</div>
+                        </div>
+                    `;
+                    grid.appendChild(card);
+                });
+            } catch (error) {
+                console.error("Error loading json data: ", error);
+            }
+        }
+        window.onload = loadSchedule;
+    </script>
+</body>
+</html>
