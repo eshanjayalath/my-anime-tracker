@@ -1,6 +1,152 @@
 {
-    "last_updated": "2026-06-06T05:30:21.007394",
+    "last_updated": "2026-06-06T15:59:34.659601",
     "releases": [
+        {
+            "title": "Pumeog",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1806/142395.jpg"
+        },
+        {
+            "title": "Nyanchus",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1114/151777.jpg"
+        },
+        {
+            "title": "Naui Bimilchingu Haechi",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1151/153163.jpg"
+        },
+        {
+            "title": "Oshiri Tantei 10th Season",
+            "type": "Anime",
+            "time": "09:00",
+            "day": "Saturdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1098/156208.jpg"
+        },
+        {
+            "title": "Kumarba Season 3",
+            "type": "Anime",
+            "time": "07:00",
+            "day": "Sundays",
+            "image": "https://cdn.myanimelist.net/images/anime/1148/155162.jpg"
+        },
+        {
+            "title": "Takoru TV",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1603/134813.jpg"
+        },
+        {
+            "title": "Tomica & Tom (TV)",
+            "type": "Anime",
+            "time": "08:30",
+            "day": "Sundays",
+            "image": "https://cdn.myanimelist.net/images/anime/1521/151096.jpg"
+        },
+        {
+            "title": "Nezumi-kun no Chokki (TV)",
+            "type": "Anime",
+            "time": "09:30",
+            "day": "Saturdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1515/152058.jpg"
+        },
+        {
+            "title": "Metal Cardbot W",
+            "type": "Anime",
+            "time": "07:45",
+            "day": "Thursdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
+        },
+        {
+            "title": "Metal Cardbot W",
+            "type": "Anime",
+            "time": "07:45",
+            "day": "Thursdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
+        },
+        {
+            "title": "TwinFizz Family",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1788/151966.jpg"
+        },
+        {
+            "title": "Anmari Yakunitatanai Nihonshi",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1147/151028.jpg"
+        },
+        {
+            "title": "Shou 3 Ashibe QQ Goma-chan",
+            "type": "Anime",
+            "time": "07:00",
+            "day": "Sundays",
+            "image": "https://cdn.myanimelist.net/images/anime/1899/155697.jpg"
+        },
+        {
+            "title": "Mukashibanashi no Oheya: Tsutaetai Nihon Mukashibanashi",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1384/133998.jpg"
+        },
+        {
+            "title": "Papan Ga Panda!",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/6/86918.jpg"
+        },
+        {
+            "title": "Princess Catch! Tiniping",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1153/152436.jpg"
+        },
+        {
+            "title": "Princess Catch! Tiniping",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1153/152436.jpg"
+        },
+        {
+            "title": "I Love Me 2nd Season",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1581/132395.jpg"
+        },
+        {
+            "title": "Warau Red List",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1437/145327.jpg"
+        },
+        {
+            "title": "Origami Ninja Koyankinte",
+            "type": "Anime",
+            "time": "07:30",
+            "day": "Tuesdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg"
+        },
+        {
+            "title": "Chronicles of the Demon Faction",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx164222-9wzDZENmjYtc.jpg",
+            "day": "Weekly Updates"
+        },
         {
             "title": "The Devil Butler",
             "type": "Manga",
@@ -14,45 +160,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Extra’s Academy Survival Guide",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Patron of Villains",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201009-jTY2arWw21sc.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx212562-huzVxCEUCcfM.jpg",
-            "day": "Weekly Updates"
-        },
-        {
             "title": "One Piece",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Lazy Lord Masters the Sword",
+            "title": "The Extra’s Academy Survival Guide",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135325-YAhEGWro8zFK.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Pick Me Up",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Reincarnated as the Grand Duke’s Third Son",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203471-dCqKXpXikvqE.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -62,15 +178,21 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Lucky Me: I Secretly Cultivated for 1,000 Years",
+            "title": "Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154258-UirlUQqaOwVR.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx212562-huzVxCEUCcfM.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Stellar Swordmaster",
+            "title": "Pick Me Up",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Patron of Villains",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201009-jTY2arWw21sc.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -80,45 +202,63 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "The Fragrant Flower Blooms With Dignity",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Smoking Behind the Supermarket with You",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147149-9DQ4upJAV2kQ.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "One-Punch Man",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74347-sZpmNJ5xLwRK.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Reborn Rich",
+            "title": "Kingdom",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx158766-QqP974PrKarG.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46765-KPXir4sRqJBW.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Male Lead's Little Lion Daughter",
+            "title": "The Stellar Swordmaster",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138363-WCVXZgFuKtsH.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "66,666 Years: Advent of the Dark Mage",
+            "title": "Overgeared",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137595-1m3i7vxyOqXc.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117460-46JbftfHSXoc.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Mikoto-chan wa Kirawaretakunai!",
+            "title": "Eleceed",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx192691-HomN3hQ6lTBm.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Nano Machine",
+            "title": "Reincarnated as the Grand Duke’s Third Son",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203471-dCqKXpXikvqE.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Haimiya-senpai wa Kowakute Kawaii",
+            "title": "Crawling My Way to the Top!",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201773-ecGmhCRhfu05.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx188621-KnHO1Aonb4WB.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kagurabachi",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
             "day": "Weekly Updates"
         }
     ]
