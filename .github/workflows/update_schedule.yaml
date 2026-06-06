@@ -2,8 +2,8 @@ name: Auto Update Schedule Data
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Automatically runs every 12 hours
-  workflow_dispatch: # Allows manual trigger button in GitHub
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -27,6 +27,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add schedule.json
-        git commit -m "Automated schedule update [skip ci]" || exit 0
-        git push
+        git add schedule.json || true
+        git commit -m "Automated schedule update [skip ci]" || true
+        git push origin main
