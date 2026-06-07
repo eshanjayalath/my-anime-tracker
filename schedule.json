@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-07T10:15:20.908495",
+    "last_updated": "2026-06-07T16:54:24.249928",
     "releases": [
         {
             "title": "Pumeog",
@@ -148,21 +148,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Devil Butler",
+            "title": "One Piece",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116353-DYuIigXuPwpZ.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "There's No Such Thing as a Bad Lady",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206766-W5A0TIH5RM0a.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "My Bias Gets on the Last Train",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187944-gzNbL7zeY7Ma.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -172,15 +160,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "A Flame Reborn",
+            "title": "The Devil Butler",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173233-sSWxsYy8oXFK.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116353-DYuIigXuPwpZ.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Are You a Landmine, Chihara-san?",
+            "title": "Log Into The Future",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137714-L9dXZ1uhfVBz.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -190,15 +178,39 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "There's No Such Thing as a Bad Lady",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206766-W5A0TIH5RM0a.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Extra’s Academy Survival Guide",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Chronicles of the Demon Faction",
+            "title": "Are You a Landmine, Chihara-san?",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx164222-9wzDZENmjYtc.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137714-L9dXZ1uhfVBz.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Patron of Villains",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201009-jTY2arWw21sc.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "A Flame Reborn",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173233-sSWxsYy8oXFK.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Witch Hat Atelier",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -208,39 +220,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Villain's Survival Route",
+            "title": "My Bias Gets on the Last Train",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187427-7A225QIPaIU3.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187944-gzNbL7zeY7Ma.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Return of the Blossoming Blade",
+            "title": "Smoking Behind the Supermarket with You",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Kimi wa Yotsuba no Clover",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180647-ZCIbt1OXUExw.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "One Piece",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The S-Class Hunter’s Peaceful Life with Monsters",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx196282-ypmJky5o7Pbr.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "My Gyaru Wife's Secrets",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169734-vNvdPkieV0Xi.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147149-9DQ4upJAV2kQ.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -250,15 +238,27 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Pick Me Up",
+            "title": "I’m the Max-Level Newbie",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137280-juUL79K7f9s7.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Log Into The Future",
+            "title": "The Lazy Lord Masters the Sword",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135325-YAhEGWro8zFK.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kingdom",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46765-KPXir4sRqJBW.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Stellar Swordmaster",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
             "day": "Weekly Updates"
         }
     ]
