@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-09T11:44:44.514980",
+    "last_updated": "2026-06-09T19:35:43.121816",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,6 +142,24 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "Blue Lock",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Stellar Swordmaster",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Eleceed",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Regressed Mercenary Has a Plan",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
@@ -154,9 +172,51 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Dandadan",
+            "title": "Shangri-La Frontier",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122063-j2wIvwb6yzPM.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Tune In to the Midnight Heart",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Nebula's Civilization",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174515-Ujnhdtynaedo.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Infinite Mage",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The World After the Fall",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "One Piece",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Marriage Toxin",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147329-ZaM4EOAn0Bgn.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Bastard of Swordborne",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183855-BbnSsUPiOVrM.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -166,9 +226,27 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Max Level Hero Strikes Back!",
+            "title": "Dandadan",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125636-g0gkyLZbo3Tz.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Return of the Blossoming Blade",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "WIND BREAKER",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135083-TQbNFWKGJJHW.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Rent-A-Girlfriend",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99943-DX7nDMeqSTk3.png",
             "day": "Weekly Updates"
         },
         {
@@ -181,84 +259,6 @@
             "title": "The Shepherd Wizard",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx208208-azuHfUiSOUSZ.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "How to Use a Returner",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141007-mCfbMLgrCv1h.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Genius Swordsman of Mount Hua",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Revenge of the Baskerville Bloodhound",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Absolute Sword Sense",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151460-Cb2CXwN2ZElE.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "SPY x FAMILY",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108556-NHjkz0BNJhLx.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "One Piece",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Smoking Behind the Supermarket with You",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147149-9DQ4upJAV2kQ.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "What a Bountiful Harvest, Demon Lord!",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx189051-ORxxDJZvMHxj.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Lazy Lord Masters the Sword",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135325-YAhEGWro8zFK.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Bangnanggisaro Saraganeun Beop",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx202718-AkkO9OkIYbiw.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "My Avatars’ Path to Greatness",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182139-2skHo9YMWUk0.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "I’m the Max-Level Newbie",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137280-juUL79K7f9s7.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Player Who Can't Level Up",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130511-4O6dF8oaiVJh.jpg",
             "day": "Weekly Updates"
         }
     ]
