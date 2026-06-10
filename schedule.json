@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-09T19:35:43.121816",
+    "last_updated": "2026-06-10T12:41:14.220774",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,9 +142,9 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
-            "title": "Blue Lock",
+            "title": "Return of the Blossoming Blade",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
             "day": "Weekly Updates"
         },
         {
@@ -154,9 +154,27 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "The Infinite Mage",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Blue Lock",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "Eleceed",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Witch Hat Atelier",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -166,9 +184,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Absolute Regression",
+            "title": "Return of the War God",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180891-ZBbyOWSYI41R.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150319-Q5hDqxkIk2LR.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Psychopath in Murim",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx204974-SZoqdyhxoLRH.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -178,21 +202,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Tune In to the Midnight Heart",
+            "title": "Tsumiki Ogami's Not-So-Ordinary Life",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Nebula's Civilization",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174515-Ujnhdtynaedo.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Infinite Mage",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169904-6gvkXMNpq66N.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -202,27 +214,33 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "One Piece",
+            "title": "Choujin X",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126693-hEqUWtBfUHyc.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Marriage Toxin",
+            "title": "Wistoria: Wand and Sword",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147329-ZaM4EOAn0Bgn.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125116-ZfCpel1WOdmF.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Bastard of Swordborne",
+            "title": "Akira Failing in Love",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183855-BbnSsUPiOVrM.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180422-dRRQ8aeSAYum.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Descended from Divinity",
+            "title": "I Killed the Main Player",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136204-D4ON9gggIHeX.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173020-vqe5J7U1cizO.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kagurabachi",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
             "day": "Weekly Updates"
         },
         {
@@ -232,33 +250,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Return of the Blossoming Blade",
+            "title": "Artifact-Devouring Player",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx188686-Agwyj6NJE4JI.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "WIND BREAKER",
+            "title": "Tune In to the Midnight Heart",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135083-TQbNFWKGJJHW.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Rent-A-Girlfriend",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99943-DX7nDMeqSTk3.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Novel's Extra",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152128-hk1Dq8zlEPVn.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Shepherd Wizard",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx208208-azuHfUiSOUSZ.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
             "day": "Weekly Updates"
         }
     ]
