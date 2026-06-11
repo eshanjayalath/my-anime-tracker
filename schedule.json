@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-10T12:41:14.220774",
+    "last_updated": "2026-06-11T13:05:44.243875",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,9 +142,57 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
-            "title": "Return of the Blossoming Blade",
+            "title": "Pick Me Up",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Nano Machine",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Fragrant Flower Blooms With Dignity",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Welcome to Demon School! Iruma-kun",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99324-huvqo1tmm4pl.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Haimiya-senpai wa Kowakute Kawaii",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201773-ecGmhCRhfu05.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Academy’s Sashimi Sword Master",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184502-uu4QoBUwEfNH.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kingdom",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46765-KPXir4sRqJBW.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "66,666 Years: Advent of the Dark Mage",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137595-1m3i7vxyOqXc.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "One Piece",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -160,105 +208,57 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "Dragon-eul Yugoehada",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203800-i7vFEWkQSUzn.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Log Into The Future",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Return of the Disaster-Class Hero",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143056-MEpVxW7346jz.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Lucky Me: I Secretly Cultivated for 1,000 Years",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154258-UirlUQqaOwVR.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Bad Born Blood",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184347-lDVGEttgQHbY.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Return of the Blossoming Blade",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Please Go Home, Miss Akutsu!",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113501-rVSt4fVTEAy2.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "Blue Lock",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Eleceed",
+            "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Witch Hat Atelier",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Regressed Mercenary Has a Plan",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Return of the War God",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150319-Q5hDqxkIk2LR.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Psychopath in Murim",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx204974-SZoqdyhxoLRH.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Shangri-La Frontier",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122063-j2wIvwb6yzPM.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Tsumiki Ogami's Not-So-Ordinary Life",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169904-6gvkXMNpq66N.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The World After the Fall",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Choujin X",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126693-hEqUWtBfUHyc.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Wistoria: Wand and Sword",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125116-ZfCpel1WOdmF.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Akira Failing in Love",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180422-dRRQ8aeSAYum.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "I Killed the Main Player",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173020-vqe5J7U1cizO.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Kagurabachi",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Dandadan",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Artifact-Devouring Player",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx188686-Agwyj6NJE4JI.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Tune In to the Midnight Heart",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122344-NUecmoX09FTw.jpg",
             "day": "Weekly Updates"
         }
     ]
