@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-14T10:54:13.515341",
+    "last_updated": "2026-06-14T17:01:23.282063",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,15 +142,63 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "Kagurabachi",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "RuriDragon",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150440-QdBFoMh4YHsK.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Ichi the Witch",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180752-13CVO310XiEs.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Sakamoto Days",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125828-p78Z8SflkfmO.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Blue Box",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132182-maXh2QzYPrqR.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Akane-banashi",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144866-ummLIg6x419I.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Revenge of the Baskerville Bloodhound",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Hima-Ten!",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx178202-DChIIiw57fRG.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Guy She Was Interested In Wasn't a Guy at All",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx149544-466pXfETA8oP.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "There's No Such Thing as a Bad Lady",
+            "title": "Class 2-B Hero Destroyerz",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206766-W5A0TIH5RM0a.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx210041-KBPe9Ez3iBHI.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -160,9 +208,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Reincarnation of the Fist King",
+            "title": "Drama Queen",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx194523-cLAK6gTAKNkM.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx185129-BejBDBOhG7Ps.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -178,6 +226,24 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "Kinato's Magic",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx207142-T7DIOPtJLk50.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Berserk",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "WITCH WATCH",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128896-VJfCBLFkm4Lb.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Devil Butler",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116353-DYuIigXuPwpZ.jpg",
@@ -190,75 +256,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Overgeared",
+            "title": "Reincarnation of the Fist King",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117460-46JbftfHSXoc.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Chained Soldier",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106064-WBMhTOo7UQ20.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "A Wimp’s Tower Strategy Guide",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203958-AZVqS2yRXfiN.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Art of Reincarnation",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153880-60zEJbCK4yQL.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Berserk",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Necromancer, the Ultimate Scourge!",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Bultan Samagui Moraesulsa",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx211365-CIuEfNvrisPg.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Streaming My Second Life",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203593-L46M3wKxLkc2.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Ending Maker",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150170-90fcXGkCcfZ1.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Extra’s Academy Survival Guide",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Nano Machine",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "My Bias Gets on the Last Train",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187944-gzNbL7zeY7Ma.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx194523-cLAK6gTAKNkM.jpg",
             "day": "Weekly Updates"
         }
     ]
