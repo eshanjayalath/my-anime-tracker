@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-13T17:02:22.544333",
+    "last_updated": "2026-06-14T10:54:13.515341",
     "releases": [
         {
             "title": "Pumeog",
@@ -44,25 +44,25 @@
             "image": "https://cdn.myanimelist.net/images/anime/1603/134813.jpg"
         },
         {
+            "title": "Metal Cardbot W",
+            "type": "Anime",
+            "time": "07:45",
+            "day": "Thursdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
+        },
+        {
+            "title": "Metal Cardbot W",
+            "type": "Anime",
+            "time": "07:45",
+            "day": "Thursdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
+        },
+        {
             "title": "Nezumi-kun no Chokki (TV)",
             "type": "Anime",
             "time": "09:30",
             "day": "Saturdays",
             "image": "https://cdn.myanimelist.net/images/anime/1515/152058.jpg"
-        },
-        {
-            "title": "Metal Cardbot W",
-            "type": "Anime",
-            "time": "07:45",
-            "day": "Thursdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
-        },
-        {
-            "title": "Metal Cardbot W",
-            "type": "Anime",
-            "time": "07:45",
-            "day": "Thursdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
         },
         {
             "title": "TwinFizz Family",
@@ -142,63 +142,39 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "The Guy She Was Interested In Wasn't a Guy at All",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx149544-466pXfETA8oP.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "There's No Such Thing as a Bad Lady",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206766-W5A0TIH5RM0a.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Chronicles of the Lazy Sovereign",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx195914-6lub8mSgYhuf.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Reincarnation of the Fist King",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx194523-cLAK6gTAKNkM.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Academy's Genius Swordsman",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167649-8qpdNIjBdIhQ.png",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "One Piece",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Hope You're Happy, Lemon",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169922-kd2WNbRBJqWA.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Lazy Lord Masters the Sword",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135325-YAhEGWro8zFK.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Berserk",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Chained Soldier",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106064-WBMhTOo7UQ20.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Ending Maker",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150170-90fcXGkCcfZ1.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Villain's Survival Route",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187427-7A225QIPaIU3.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "A Flame Reborn",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173233-sSWxsYy8oXFK.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Pick Me Up",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Extra’s Academy Survival Guide",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -208,57 +184,81 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
+            "title": "Log Into The Future",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152284-9kat9f3v31dA.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "I Made Friends with the Second Prettiest Girl in My Class",
+            "title": "Overgeared",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx148082-kW0qmds2laKs.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117460-46JbftfHSXoc.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Make Heroine wo Katasetai!!",
+            "title": "Chained Soldier",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx198118-BeZJFrJXaGo9.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106064-WBMhTOo7UQ20.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+            "title": "A Wimp’s Tower Strategy Guide",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx191203-WKfUJ9rlqz7A.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203958-AZVqS2yRXfiN.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Girl meets Rock!",
+            "title": "The Art of Reincarnation",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173343-XQK7jg0aS87k.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153880-60zEJbCK4yQL.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Hero Organization",
+            "title": "Berserk",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180739-QfIZlV6WhX8W.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Regressed Mercenary Has a Plan",
+            "title": "Necromancer, the Ultimate Scourge!",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Chronicles of the Demon Faction",
+            "title": "Bultan Samagui Moraesulsa",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx164222-9wzDZENmjYtc.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx211365-CIuEfNvrisPg.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Streaming My Second Life",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203593-L46M3wKxLkc2.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Ending Maker",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150170-90fcXGkCcfZ1.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Extra’s Academy Survival Guide",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
             "day": "Weekly Updates"
         },
         {
             "title": "Nano Machine",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "My Bias Gets on the Last Train",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187944-gzNbL7zeY7Ma.jpg",
             "day": "Weekly Updates"
         }
     ]
