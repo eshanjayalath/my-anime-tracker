@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-16T18:20:30.928576",
+    "last_updated": "2026-06-17T13:03:00.377161",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,9 +142,69 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "The Stellar Swordmaster",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Return of the Blossoming Blade",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Infinite Mage",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "Blue Lock",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Tyrant of the Tower Defense Game",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153513-dzG6p5H2wrN2.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The World After the Fall",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Chronicles of a Doomed Prodigy",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183376-Cw3VnZAItw2a.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "One Piece",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Psychopath in Murim",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx204974-SZoqdyhxoLRH.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The 100th Regression of the Max-Level Player",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170894-oS4T4u9WqHoj.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Martial God Who Regressed Back to Level 2",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167834-QgyPJ7tOMGqA.png",
             "day": "Weekly Updates"
         },
         {
@@ -160,87 +220,21 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Shangri-La Frontier",
+            "title": "Tsumiki Ogami's Not-So-Ordinary Life",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122063-j2wIvwb6yzPM.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169904-6gvkXMNpq66N.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Tune In to the Midnight Heart",
+            "title": "My S-Class Hunters",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141958-y46ASozodVNW.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Infinite Mage",
+            "title": "The Apocalypse-Level Death Knight Returns",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Dandadan",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Absolute Regression",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180891-ZBbyOWSYI41R.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The 100th Regression of the Max-Level Player",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170894-oS4T4u9WqHoj.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Shepherd Wizard",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx208208-azuHfUiSOUSZ.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Descended from Divinity",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136204-D4ON9gggIHeX.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Kagurabachi",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Marriage Toxin",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147329-ZaM4EOAn0Bgn.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "One Piece",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Chronicles of a Doomed Prodigy",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183376-Cw3VnZAItw2a.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Bastard of Swordborne",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183855-BbnSsUPiOVrM.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Tonari no Kurokawa-san",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180788-KE9tljEeFT7v.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx195334-AoDunvin8J2G.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -250,15 +244,21 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Latna Saga: Survival of a Sword King",
+            "title": "The Bastard of Swordborne",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114605-MYUWMsdjry6m.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183855-BbnSsUPiOVrM.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Archmage’s Restaurant",
+            "title": "Absolute Regression",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174104-AckTTGDXYD55.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180891-ZBbyOWSYI41R.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Nebula's Civilization",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174515-Ujnhdtynaedo.png",
             "day": "Weekly Updates"
         }
     ]
