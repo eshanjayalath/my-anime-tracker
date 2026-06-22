@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-21T17:12:00.009262",
+    "last_updated": "2026-06-22T17:56:44.044866",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,6 +142,30 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "Dandadan",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Revenge of the Baskerville Bloodhound",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Tutorial Is Too Tough!",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129632-ArHo6qvYQoHs.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Martial God Who Regressed Back to Level 2",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167834-QgyPJ7tOMGqA.png",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "Kagurabachi",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
@@ -154,9 +178,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Sakamoto Days",
+            "title": "The Novel's Extra",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125828-p78Z8SflkfmO.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152128-hk1Dq8zlEPVn.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Witch Hat Atelier",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -166,99 +196,69 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Centuria ",
+            "title": "The Unorthodox Genius of the House of Darkness",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx176740-KD68EumxZV95.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx189380-b5W0QVnTJyAV.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Akane-banashi",
+            "title": "Gushing over Magical Girls",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144866-ummLIg6x419I.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109017-bT3qVhgii0Xy.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Hima-Ten!",
+            "title": "The Reincarnated King of Fists",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx178202-DChIIiw57fRG.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx176812-fXxJHqdO5Koo.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Guy She Was Interested In Wasn't a Guy at All",
+            "title": "The Reborn Young Lord is an Assassin",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx149544-466pXfETA8oP.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx175262-shGEYbbfLHDD.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Class 2-B Hero Destroyerz",
+            "title": "One Piece",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx210041-KBPe9Ez3iBHI.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Academy's Genius Swordsman",
+            "title": "Sakamoto Days",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167649-8qpdNIjBdIhQ.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125828-p78Z8SflkfmO.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Shinobi Undercover",
+            "title": "The White Tower’s Rogue Mage",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180881-2NqZaTxr69jc.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx189264-WcCuyCJAqsGA.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Revenge of the Baskerville Bloodhound",
+            "title": "My Bias Gets on the Last Train",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx187944-gzNbL7zeY7Ma.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Chronicles of the Lazy Sovereign",
+            "title": "The Sword-Eating Swordmaster",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx195914-6lub8mSgYhuf.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx204435-Y2uhnmv1Z8Fk.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Roku's House of Oddities",
+            "title": "The Player Hides His Past",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx210422-k89sP63t4eYv.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx166154-m65LKgDdfe8p.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Under Doctor",
+            "title": "Blue Lock",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206835-PWOgOewxlpUi.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Log Into The Future",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "WITCH WATCH",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128896-VJfCBLFkm4Lb.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Devil Butler",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116353-DYuIigXuPwpZ.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Someone Hertz",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx198817-6WrNkObMtjkN.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Cannon Master",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx213403-fNxRdRYoPtEc.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
             "day": "Weekly Updates"
         }
     ]
