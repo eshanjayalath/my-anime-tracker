@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T10:29:13.533202",
+    "last_updated": "2026-06-25T19:21:41.122723",
     "releases": [
         {
             "title": "Pumeog",
@@ -142,6 +142,12 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "Berserk",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "Pick Me Up",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
@@ -154,15 +160,21 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "Welcome to Demon School! Iruma-kun",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99324-huvqo1tmm4pl.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Fragrant Flower Blooms With Dignity",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Welcome to Demon School! Iruma-kun",
+            "title": "Lookism",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99324-huvqo1tmm4pl.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86848-4CSItSclJUvi.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -172,33 +184,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Academy’s Sashimi Sword Master",
+            "title": "The Patron of Villains",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184502-uu4QoBUwEfNH.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201009-jTY2arWw21sc.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Eleceed",
+            "title": "One Piece",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Return of the Blossoming Blade",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Return of the War God",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150319-Q5hDqxkIk2LR.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Gachiakuta",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -214,6 +208,12 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "Gachiakuta",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "Blue Lock",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
@@ -226,39 +226,39 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "One Piece",
+            "title": "The Executioner",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx176845-G9iyUL8leE9n.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Absolute Regression",
+            "title": "Kagurabachi",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180891-ZBbyOWSYI41R.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Reality Quest",
+            "title": "Eleceed",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141705-2OMBDYY5Tguc.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Revenge of the Baskerville Bloodhound",
+            "title": "Log Into The Future",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "How to Use a Returner",
+            "title": "Return of the Blossoming Blade",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141007-mCfbMLgrCv1h.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Shepherd Wizard",
+            "title": "Lout of Count’s Family",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx208208-azuHfUiSOUSZ.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123573-LKoCKwRouEMW.png",
             "day": "Weekly Updates"
         }
     ]
