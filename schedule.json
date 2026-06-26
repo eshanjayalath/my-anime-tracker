@@ -1,186 +1,16 @@
 {
-    "last_updated": "2026-06-25T19:21:41.122723",
+    "last_updated": "2026-06-26T11:18:40.059324",
     "releases": [
         {
-            "title": "Pumeog",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1806/142395.jpg"
-        },
-        {
-            "title": "Nyanchus",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1114/151777.jpg"
-        },
-        {
-            "title": "Naui Bimilchingu Haechi",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1151/153163.jpg"
-        },
-        {
-            "title": "Oshiri Tantei 10th Season",
-            "type": "Anime",
-            "time": "09:00",
-            "day": "Saturdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1098/156208.jpg"
-        },
-        {
-            "title": "Kumarba Season 3",
-            "type": "Anime",
-            "time": "07:00",
-            "day": "Sundays",
-            "image": "https://cdn.myanimelist.net/images/anime/1148/155162.jpg"
-        },
-        {
-            "title": "Takoru TV",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1603/134813.jpg"
-        },
-        {
-            "title": "Metal Cardbot W",
-            "type": "Anime",
-            "time": "07:45",
-            "day": "Thursdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
-        },
-        {
-            "title": "Metal Cardbot W",
-            "type": "Anime",
-            "time": "07:45",
-            "day": "Thursdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
-        },
-        {
-            "title": "Nezumi-kun no Chokki (TV)",
-            "type": "Anime",
-            "time": "09:30",
-            "day": "Saturdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1515/152058.jpg"
-        },
-        {
-            "title": "Anmari Yakunitatanai Nihonshi",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1147/151028.jpg"
-        },
-        {
-            "title": "TwinFizz Family",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1788/151966.jpg"
-        },
-        {
-            "title": "Shou 3 Ashibe QQ Goma-chan",
-            "type": "Anime",
-            "time": "07:00",
-            "day": "Sundays",
-            "image": "https://cdn.myanimelist.net/images/anime/1899/155697.jpg"
-        },
-        {
-            "title": "Papan Ga Panda!",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/6/86918.jpg"
-        },
-        {
-            "title": "Mukashibanashi no Oheya: Tsutaetai Nihon Mukashibanashi",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1384/133998.jpg"
-        },
-        {
-            "title": "Princess Catch! Tiniping",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1153/152436.jpg"
-        },
-        {
-            "title": "Princess Catch! Tiniping",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1153/152436.jpg"
-        },
-        {
-            "title": "I Love Me 2nd Season",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1581/132395.jpg"
-        },
-        {
-            "title": "Warau Red List",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1437/145327.jpg"
-        },
-        {
-            "title": "Origami Ninja Koyankinte",
-            "type": "Anime",
-            "time": "07:30",
-            "day": "Tuesdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg"
-        },
-        {
-            "title": "Shuwawan!",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
-        },
-        {
-            "title": "Berserk",
+            "title": "One Piece",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Pick Me Up",
+            "title": "The Extra’s Academy Survival Guide",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Nano Machine",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Welcome to Demon School! Iruma-kun",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99324-huvqo1tmm4pl.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Fragrant Flower Blooms With Dignity",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Lookism",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86848-4CSItSclJUvi.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Haimiya Is Scary Cute",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201773-ecGmhCRhfu05.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -190,15 +20,69 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "One Piece",
+            "title": "Berserk",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Regressed Mercenary Has a Plan",
+            "title": "I’m the Max-Level Newbie",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137280-juUL79K7f9s7.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Too Many Heroes for the Demon Lord",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx202986-0wn84aV9jlHq.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Devil Butler",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116353-DYuIigXuPwpZ.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Chronicles of a Doomed Prodigy",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183376-Cw3VnZAItw2a.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Bad Born Blood",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184347-lDVGEttgQHbY.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Pick Me Up",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The World After the Fall",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Time-Limited Genius Dark Knight",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx165182-k4Jfk2XMkylP.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kingdom",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46765-KPXir4sRqJBW.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Top Dungeon Farmer",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx166658-jbtqReVgxdqH.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -208,45 +92,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Gachiakuta",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
-            "day": "Weekly Updates"
-        },
-        {
             "title": "Blue Lock",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Witch Hat Atelier",
+            "title": "Learning to Love My Cat-like Classmate",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Executioner",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx176845-G9iyUL8leE9n.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Kagurabachi",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169355-5pqzh1Wb4NOQ.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Eleceed",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Log Into The Future",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174790-7wZ1sDAhcofd.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -256,9 +110,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Lout of Count’s Family",
+            "title": "The Academy’s Sashimi Sword Master",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123573-LKoCKwRouEMW.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184502-uu4QoBUwEfNH.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Nano Machine",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
             "day": "Weekly Updates"
         }
     ]
