@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-28T10:13:37.014564",
+    "last_updated": "2026-06-28T16:40:20.873838",
     "releases": [
         {
             "title": "Pumeog",
@@ -56,13 +56,6 @@
             "time": "07:45",
             "day": "Thursdays",
             "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
-        },
-        {
-            "title": "Nezumi-kun no Chokki (TV)",
-            "type": "Anime",
-            "time": "09:30",
-            "day": "Saturdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1515/152058.jpg"
         },
         {
             "title": "Anmari Yakunitatanai Nihonshi",
@@ -142,6 +135,25 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
+            "title": "Chibi Godzilla no Gyakushuu 3rd Season",
+            "type": "Anime",
+            "time": "07:05",
+            "day": "Wednesdays",
+            "image": "https://cdn.myanimelist.net/images/anime/1859/150334.jpg"
+        },
+        {
+            "title": "One Piece",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Player Hides His Past",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx166154-m65LKgDdfe8p.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Devil Butler",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116353-DYuIigXuPwpZ.jpg",
@@ -154,51 +166,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "One Piece",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Chronicles of the Lazy Sovereign",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx195914-6lub8mSgYhuf.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Reincarnation of the Fist King",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx194523-cLAK6gTAKNkM.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "There's No Such Thing as a Bad Lady",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206766-W5A0TIH5RM0a.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "A Wimp’s Tower Strategy Guide",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203958-AZVqS2yRXfiN.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "66,666 Years: Advent of the Dark Mage",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137595-1m3i7vxyOqXc.png",
-            "day": "Weekly Updates"
-        },
-        {
             "title": "Berserk",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Legend of Enxue",
+            "title": "Necromancer, the Ultimate Scourge!",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx198931-O804U3UqOoX8.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b167372-zfQUGcQMWiAI.png",
             "day": "Weekly Updates"
         },
         {
@@ -208,15 +184,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Pick Me Up",
+            "title": "Witch Hat Atelier",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Lazy Lord Masters the Sword",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135325-YAhEGWro8zFK.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -226,9 +196,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Witch Hat Atelier",
+            "title": "The Lazy Lord Masters the Sword",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135325-YAhEGWro8zFK.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -238,27 +208,57 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Extra’s Academy Survival Guide",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx172619-LSoXY45QAas4.jpg",
-            "day": "Weekly Updates"
-        },
-        {
             "title": "The Fragrant Flower Blooms With Dignity",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Bultan Samagui Moraesulsa",
+            "title": "The Patron of Villains",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx211365-CIuEfNvrisPg.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201009-jTY2arWw21sc.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "That Time I Got Reincarnated as a Slime",
+            "title": "The Legend of Enxue",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86399-NwbRFVh5koqc.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx198931-O804U3UqOoX8.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Reincarnation of the Fist King",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx194523-cLAK6gTAKNkM.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Hunter x Hunter",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30026-uCvXMudMzmwI.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Chronicles of the Lazy Sovereign",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx195914-6lub8mSgYhuf.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "I’m the Max-Level Newbie",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137280-juUL79K7f9s7.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "There's No Such Thing as a Bad Lady",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx206766-W5A0TIH5RM0a.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Killer Peter",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170688-tie6n1X1sZ4h.jpg",
             "day": "Weekly Updates"
         }
     ]
