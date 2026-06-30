@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-30T11:28:12.465074",
+    "last_updated": "2026-06-30T18:23:37.971715",
     "releases": [
         {
             "title": "Pumeog",
@@ -58,18 +58,18 @@
             "image": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg"
         },
         {
-            "title": "Anmari Yakunitatanai Nihonshi",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1147/151028.jpg"
-        },
-        {
             "title": "TwinFizz Family",
             "type": "Anime",
             "time": null,
             "day": null,
             "image": "https://cdn.myanimelist.net/images/anime/1788/151966.jpg"
+        },
+        {
+            "title": "Anmari Yakunitatanai Nihonshi",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1147/151028.jpg"
         },
         {
             "title": "Shou 3 Ashibe QQ Goma-chan",
@@ -135,11 +135,35 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
-            "title": "Chibi Godzilla no Gyakushuu 3rd Season",
+            "title": "Youkoso Ninchishou Sekai e",
             "type": "Anime",
-            "time": "07:05",
-            "day": "Wednesdays",
-            "image": "https://cdn.myanimelist.net/images/anime/1859/150334.jpg"
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1573/142457.jpg"
+        },
+        {
+            "title": "Blue Lock",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Gachiakuta",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Eleceed",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Shangri-La Frontier",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122063-j2wIvwb6yzPM.jpg",
+            "day": "Weekly Updates"
         },
         {
             "title": "The Regressed Mercenary Has a Plan",
@@ -148,15 +172,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Kaisou Toshi Danpenshuu",
+            "title": "Tune In to the Midnight Heart",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx213726-NBQxBDeGXE1k.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Dandadan",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -166,21 +184,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Martial God Who Regressed Back to Level 2",
+            "title": "Dandadan",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167834-QgyPJ7tOMGqA.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Singwahamkke Doraon Gisawangnim",
+            "title": "The Infinite Mage",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx165287-ZXv2LuVMn7cQ.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The World After the Fall",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -190,15 +202,45 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "Rent-A-Girlfriend",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99943-DX7nDMeqSTk3.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kaisou Toshi Danpenshuu",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx213726-NBQxBDeGXE1k.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "The Shepherd Wizard",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx208208-azuHfUiSOUSZ.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "I Am The Fated Villain",
+            "title": "Tonari no Kurokawa-san",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142287-nlT7oSUzHnNv.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180788-KE9tljEeFT7v.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Bastard of Swordborne",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183855-BbnSsUPiOVrM.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Martial God Who Regressed Back to Level 2",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167834-QgyPJ7tOMGqA.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "WIND BREAKER",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135083-TQbNFWKGJJHW.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -214,51 +256,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Descended from Divinity",
+            "title": "Singwahamkke Doraon Gisawangnim",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136204-D4ON9gggIHeX.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Revenge of the Baskerville Bloodhound",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Max Level Hero Strikes Back!",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125636-g0gkyLZbo3Tz.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Blue Lock",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Reincarnated King of Fists",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx176812-fXxJHqdO5Koo.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Genius Swordsman of Mount Hua",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Villain to Kill",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b130149-y63hveWF28Sb.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Berserk",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30002-Cul4OeN7bYtn.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx165287-ZXv2LuVMn7cQ.jpg",
             "day": "Weekly Updates"
         }
     ]
