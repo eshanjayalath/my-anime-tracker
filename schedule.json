@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-06-30T18:23:37.971715",
+    "last_updated": "2026-07-01T11:40:57.892033",
     "releases": [
+        {
+            "title": "Chibi Godzilla Raids Again Season 4",
+            "type": "Anime",
+            "time": null,
+            "day": null,
+            "image": "https://cdn.myanimelist.net/images/anime/1791/158762.jpg"
+        },
         {
             "title": "Pumeog",
             "type": "Anime",
@@ -135,58 +142,15 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
-            "title": "Youkoso Ninchishou Sekai e",
-            "type": "Anime",
-            "time": null,
-            "day": null,
-            "image": "https://cdn.myanimelist.net/images/anime/1573/142457.jpg"
-        },
-        {
-            "title": "Blue Lock",
+            "title": "Return of the Blossoming Blade",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
             "day": "Weekly Updates"
         },
         {
-            "title": "Gachiakuta",
+            "title": "The Stellar Swordmaster",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Eleceed",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Shangri-La Frontier",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122063-j2wIvwb6yzPM.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Regressed Mercenary Has a Plan",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Tune In to the Midnight Heart",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Absolute Regression",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180891-ZBbyOWSYI41R.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Dandadan",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -196,69 +160,105 @@
             "day": "Weekly Updates"
         },
         {
+            "title": "Blue Lock",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The 100th Regression of the Max-Level Player",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170894-oS4T4u9WqHoj.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Eleceed",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Gachiakuta",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Psychopath in Murim",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx204974-SZoqdyhxoLRH.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Regressed Mercenary Has a Plan",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Shangri-La Frontier",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122063-j2wIvwb6yzPM.jpg",
+            "day": "Weekly Updates"
+        },
+        {
             "title": "One Piece",
             "type": "Manga",
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Rent-A-Girlfriend",
+            "title": "Absolute Regression",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99943-DX7nDMeqSTk3.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180891-ZBbyOWSYI41R.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Kaisou Toshi Danpenshuu",
+            "title": "Tune In to the Midnight Heart",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx213726-NBQxBDeGXE1k.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169272-1a2RZ43tqOdw.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Shepherd Wizard",
+            "title": "Witch Hat Atelier",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx208208-azuHfUiSOUSZ.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Tonari no Kurokawa-san",
+            "title": "Pick Me Up",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx180788-KE9tljEeFT7v.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Bastard of Swordborne",
+            "title": "Dandadan",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx183855-BbnSsUPiOVrM.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Martial God Who Regressed Back to Level 2",
+            "title": "Tsumiki Ogami's Not-So-Ordinary Life",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx167834-QgyPJ7tOMGqA.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169904-6gvkXMNpq66N.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "WIND BREAKER",
+            "title": "The World After the Fall",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135083-TQbNFWKGJJHW.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "Nebula's Civilization",
+            "title": "The Apothecary Diaries",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174515-Ujnhdtynaedo.png",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99022-Hh2WdyNgR8HM.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "I Killed the Main Player",
+            "title": "The Exiled Heavy Knight Knows How to Game the System",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx173020-vqe5J7U1cizO.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Singwahamkke Doraon Gisawangnim",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx165287-ZXv2LuVMn7cQ.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150193-XBdISLm3IDr1.jpg",
             "day": "Weekly Updates"
         }
     ]
