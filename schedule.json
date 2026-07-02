@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-02T10:19:08.884939",
+    "last_updated": "2026-07-02T18:17:21.099257",
     "releases": [
         {
             "title": "Chibi Godzilla Raids Again Season 4",
@@ -142,15 +142,9 @@
             "image": "https://cdn.myanimelist.net/images/anime/1129/140004.jpg"
         },
         {
-            "title": "Pick Me Up",
+            "title": "Ane no Tomodachi ",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Nano Machine",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx174315-ww59pBzOsNrM.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -160,51 +154,9 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Fragrant Flower Blooms With Dignity",
+            "title": "Pick Me Up",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Welcome to Demon School! Iruma-kun",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99324-huvqo1tmm4pl.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Academy’s Sashimi Sword Master",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184502-uu4QoBUwEfNH.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Haimiya Is Scary Cute",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201773-ecGmhCRhfu05.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Blue Lock",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Max Level Hero Strikes Back!",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125636-g0gkyLZbo3Tz.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Bad Born Blood",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184347-lDVGEttgQHbY.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Stellar Swordmaster",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170400-yMIuOIboWuoO.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
             "day": "Weekly Updates"
         },
         {
@@ -214,9 +166,81 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "Log Into The Future",
+            "title": "Nano Machine",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160980-KAM0gr3dSMvB.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120980-RZ9WLd0o9hyo.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Patron of Villains",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201009-jTY2arWw21sc.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Gokurakugai",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150378-cClKErwmvgsv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Welcome to Demon School! Iruma-kun",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99324-huvqo1tmm4pl.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Haimiya Is Scary Cute",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201773-ecGmhCRhfu05.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Academy’s Sashimi Sword Master",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184502-uu4QoBUwEfNH.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Lookism",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86848-4CSItSclJUvi.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Fragrant Flower Blooms With Dignity",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140475-QEGtrmdvbpOv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Barbarian's Adventure in a Fantasy World",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx196874-uOCccjDZR8vj.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Max Level Hero Strikes Back!",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125636-g0gkyLZbo3Tz.png",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "The Top Dungeon Farmer",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx166658-jbtqReVgxdqH.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Dandadan",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+            "day": "Weekly Updates"
+        },
+        {
+            "title": "Kingdom",
+            "type": "Manga",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46765-KPXir4sRqJBW.png",
             "day": "Weekly Updates"
         },
         {
@@ -226,39 +250,15 @@
             "day": "Weekly Updates"
         },
         {
-            "title": "The Regressed Mercenary Has a Plan",
+            "title": "Hunter x Hunter",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx182066-kqOV7WW1DAH4.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30026-uCvXMudMzmwI.jpg",
             "day": "Weekly Updates"
         },
         {
-            "title": "The Infinite Mage",
+            "title": "Bad Born Blood",
             "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159930-qK1P4BNQL0zG.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Gachiakuta",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144946-cscic3n2SwdY.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The 100th Regression of the Max-Level Player",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx170894-oS4T4u9WqHoj.png",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "Witch Hat Atelier",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98263-kIeaTXrAbGkj.jpg",
-            "day": "Weekly Updates"
-        },
-        {
-            "title": "The Heavenly Demon Wants a Quiet Life",
-            "type": "Manga",
-            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx185816-DhnjJEpwiur1.jpg",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184347-lDVGEttgQHbY.jpg",
             "day": "Weekly Updates"
         }
     ]
